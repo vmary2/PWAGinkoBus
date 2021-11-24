@@ -1,0 +1,27 @@
+{
+    "short_name": "GinkoBus",
+    "name": "Ginko Bus",
+    "icons": [
+      {
+        "src": "icons/icon-512",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "icons/icon-192",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icons/maskable_icon",
+        "type": "image/png",
+        "sizes": "274x274",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "description": "Application de lecture des lignes de bus et tram de Besançon"
+  }
