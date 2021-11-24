@@ -1,6 +1,6 @@
 {
-    "short_name": "GinkoBus",
     "name": "Ginko Bus",
+    "short_name": "GinkoBus",
     "icons": [
       {
         "src": "icons/icon-512",
@@ -21,7 +21,5 @@
     ],
     "start_url": "index.html",
     "display": "fullscreen",
-    "theme_color": "#FFFFFF",
-    "background_color": "#FFFFFF",
     "description": "Application de lecture des lignes de bus et tram de Besançon"
   }
